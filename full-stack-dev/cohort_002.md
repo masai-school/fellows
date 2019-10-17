@@ -20,7 +20,7 @@
 | sp_016_khyati | Khyati | Discontinued |
 | sp_017_madhu | Madhu | |
 | sp_018_man-mohan | Man Mohan | Discontinued |
-| sp_019_manjunath | Manjunath | |
+| sp_019_manjunath | Manjunath | Discontinued |
 | sp_020_meena | Meena | |
 | sp_021_mohammed-tanveer | Tanveer | |
 | sp_022_naga-sowmya | Naga | |
@@ -28,7 +28,7 @@
 | sp_024_nitin | Nitin | |
 | sp_025_nitu | Nitu | |
 | sp_026_piyush | Piyush | |
-| sp_027_prabhat | Prabhat | |
+| sp_027_prabhat | Prabhat | Discontinued |
 | sp_028_pragathi | Pragathi | Discontinued |
 | sp_029_rahul-joshi | Rahul Joshi | |
 | sp_030_rahul-kumar | Rahul Kumar | |
@@ -40,12 +40,12 @@
 | sp_036_sharanya | Sharanya | Discontinued |
 | sp_037_sibananda | Sibananda | |
 | sp_038_sirisha | Sirisha | Discontinued |
-| sp_039_srikantha | Srikantha | |
-| sp_040_sudarshan | Sudarshan | |
+| sp_039_srikantha | Srikantha | Discontinued |
+| sp_040_sudarshan | Sudarshan | Discontinued |
 | sp_041_suman | Suman | Discontinued |
 | sp_042_suraj-kumar | Suraj | |
-| sp_043_suraj-singh | Suraj | |
-| sp_044_syeeda | Syeeda | |
-| sp_045_teja | Teja | |
+| sp_043_suraj-singh | Suraj | Discontinued |
+| sp_044_syeeda | Syeeda | Discontinued |
+| sp_045_teja | Teja | Discontinued |
 | sp_046_vivek | Vivek | |
 | sp_047_suneet | Suneet | |
